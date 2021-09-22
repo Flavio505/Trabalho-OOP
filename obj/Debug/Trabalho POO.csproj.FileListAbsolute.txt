@@ -1,0 +1,10 @@
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho POO\bin\Debug\Trabalho POO.exe.config
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho POO\bin\Debug\Trabalho POO.exe
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho POO\bin\Debug\Trabalho POO.pdb
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho POO\obj\Debug\Trabalho POO.csproj.AssemblyReference.cache
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho POO\obj\Debug\Trabalho_POO.Form1.resources
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho POO\obj\Debug\Trabalho_POO.Properties.Resources.resources
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho POO\obj\Debug\Trabalho POO.csproj.GenerateResource.cache
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho POO\obj\Debug\Trabalho POO.csproj.CoreCompileInputs.cache
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho POO\obj\Debug\Trabalho POO.exe
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho POO\obj\Debug\Trabalho POO.pdb
